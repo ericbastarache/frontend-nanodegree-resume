@@ -13,4 +13,4 @@ New features:
 
 A screenshot of the finished product: 
 
-![alt tag]()
+![alt tag](https://github.com/ericbastarache/frontend-nanodegree-resume/blob/master/images/final-resume.png)
