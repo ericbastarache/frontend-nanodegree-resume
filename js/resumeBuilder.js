@@ -70,7 +70,7 @@ var projects = {
     "dates" : "2015",
     "description" : "Creating an interactive online resume.",
     "images" : [
-    "images/Resume.png"
+    "images/final-resume.png"
     ]
   }
   ]
